@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/">
   <img align="left" alt="tonmoy's | Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/utonmoy">
-  <img align="left" alt="tonmoy's | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/twitter.svg" />
-</a>
 <a href="https://discord.gg/3PXDND5e">
   <img align="left" alt="tonmoy's Discord" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/discord.svg" />
 </a>
