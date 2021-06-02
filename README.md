@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&layout=compact)](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact)](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy)
