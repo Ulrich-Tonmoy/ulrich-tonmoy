@@ -1,12 +1,21 @@
-### Hi there, I'm [Tonmoy!](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy) 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there+👋!;I+am+Tonmoy.;Welcome+to+my+profile!&center=true&size=27">
+  </a>
+</h1>
 
-<a href="https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/">
-  <img align="left" alt="tonmoy's | Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/linkedin.svg" />
+<a height="200" href="https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/">
+  <img align="left" alt="tonmoy's | Linkedin" width="20px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
 <a href="https://discord.gg/3PXDND5e">
-  <img align="left" alt="tonmoy's Discord" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/discord.svg" />
+  <img align="left" alt="tonmoy's Discord" width="21px" src="https://img.icons8.com/cute-clipart/64/000000/discord-logo.png" />
 </a>
 
+<br />
+<br />
+<p align="center">
+  <img src="https://github.com/Ulrich-Tonmoy/Ulrich-Tonmoy/blob/main/robot.svg">
+</p>
 <br />
 <br />
 
@@ -31,13 +40,21 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/unity.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png"></code>
+<code><img height="20" src="https://img.icons8.com/nolan/64/unity.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/96/000000/javascript.png"></code>
+<code><img height="20" src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"></code>
+<code><img height="20" src="https://img.icons8.com/offices/80/000000/php-logo.png"></code>
+<code><img height="20" src="https://laravel.com/img/logomark.min.svg"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/tensorflow.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ulrich-Tonmoy&theme=dracula&column=8&no-frame=true&no-bg=true">
+  </a>
+</p>
 
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact)](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy)
