@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
 
-**links:**  
+## **links:**  
 <a href="https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/">
   <img height="40px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Languages and Tools:**  
+## **Languages and Tools:**  
 
 <code><img height="40" src="https://img.icons8.com/nolan/64/unity.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"></code>
