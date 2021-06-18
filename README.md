@@ -8,10 +8,10 @@
 
 **links:**  
 <a href="https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/">
-  <code><img height="40px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" /></code>
+  <img height="40px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
 <a href="https://discord.gg/3PXDND5e">
-  <code><img height="40px" src="https://img.icons8.com/cute-clipart/64/000000/discord-logo.png" /></code>
+  <img height="40px" src="https://img.icons8.com/cute-clipart/64/000000/discord-logo.png" />
 </a>
 
 <br />
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" src="https://img.icons8.com/offices/80/000000/php-logo.png"></code>
 <code><img height="40" src="https://laravel.com/img/logomark.min.svg"></code>
+<code><img height="40" src="https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-framework.svg?v=OjVkBCWB7kgzF4DeprryGZyEQ4UDnmeN8la2YPRBfa8"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/python.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
