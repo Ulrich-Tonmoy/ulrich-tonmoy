@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there+👋!;I+am+Tonmoy+a+passionate+self-taught+game+and+web+developer.;Welcome+to+my+profile!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there+👋!;I+am+Tonmoy;A+passionate+game+and+web+developer.;Welcome+to+my+profile!&center=true&size=27">
   </a>
 </h1>
 
@@ -17,7 +17,7 @@
 <br />
 <br />
 <p align="center">
-  <img height="200" src="https://github.com/Ulrich-Tonmoy/Ulrich-Tonmoy/blob/main/robot.svg">
+  <img height="400" src="https://github.com/Ulrich-Tonmoy/Ulrich-Tonmoy/blob/main/robot.svg">
 </p>
 <br />
 <br />
