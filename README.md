@@ -27,12 +27,12 @@
 
 <br />
 <br />
-<img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px" height="433px"/>
-<img align="left" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px" height="433px"/>
+<img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="50%"/>
+<img align="left" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="50%" height="433px"/>
 <br />
 <br />
 
-<h2 align="center"> ⚡ Languages, Frameworks & Tools ⚡</h2>
+<h2 align="center">⚡ Languages, Frameworks & Tools ⚡</h2>
 
 <code><img title="unity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unity3d.svg"></code>
 <code><img title="C#" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cSharp.svg"></code>
