@@ -14,7 +14,6 @@
 -   ⚡ Fun fact: ... -->
 
 -   💻 I love writing code and learn anythings about it
-
 -   💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
 
 ## **links:**
@@ -22,7 +21,7 @@
 <a href='https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/'><img align='left' alt="linkedin" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://discord.gg/3PXDND5e'><img align='left' alt="discord" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/discord.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/ulrichtonmoy'><img alt="kaggle" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/kaggle.svg" height='18px'/></a>
-<a href='https://www.instagram.com/ulrich_tonmoy'><img alt="instagram" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/instagram.svg" height='18px'/></a>
+<a href='https://www.instagram.com/ulrich_tonmoy'><img alt="instagram" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/Instagram.svg" height='18px'/></a>
 
 <br />
 <br />
