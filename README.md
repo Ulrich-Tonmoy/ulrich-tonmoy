@@ -13,7 +13,6 @@
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ... -->
 
--   🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
 -   💻 I love writing code and learn anythings about it
 
 -   💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
