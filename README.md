@@ -25,6 +25,8 @@
 
 <a href='https://www.instagram.com/ulrich_tonmoy'><img align='left' alt="instagram" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/Instagram.svg" height='18px'/></a>
 
+<a href='https://www.youtube.com/channel/UC6b8Zl8uBuKYx0q5X-P2idQ'><img align='left' alt="youtube" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/YouTube.svg" height='18px'/></a>
+
 <br />
 <br />
 <p align="center">
