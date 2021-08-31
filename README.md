@@ -27,8 +27,8 @@
 
 <br />
 <br />
-  <img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
   <img align="right" alt="robot" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" />
+  <img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
 <br />
 <br />
 
