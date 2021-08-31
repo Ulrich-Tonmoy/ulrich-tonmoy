@@ -18,14 +18,15 @@
 
 ## **links:**
 
-<a href='https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/'><img align='left' alt="linkedin" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/linkedin.svg" height='18px'/></a>
-<a href='https://discord.gg/3PXDND5e'><img align='left' alt="discord" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/discord.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/' target='_blank'><img align='left' alt="linkedin" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/linkedin.svg" height='18px'/></a>
 
-<a href='https://www.kaggle.com/ulrichtonmoy'><img align='left' alt="kaggle" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/kaggle.svg" height='18px'/></a>
+<a href='https://discord.gg/3PXDND5e' target='_blank'><img align='left' alt="discord" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/discord.svg" height='18px'/></a>
 
-<a href='https://www.instagram.com/ulrich_tonmoy'><img align='left' alt="instagram" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/Instagram.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/ulrichtonmoy' target='_blank'><img align='left' alt="kaggle" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/kaggle.svg" height='18px'/></a>
 
-<a href='https://www.youtube.com/channel/UC6b8Zl8uBuKYx0q5X-P2idQ'><img align='left' alt="youtube" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/YouTube.svg" height='18px'/></a>
+<a href='https://www.instagram.com/ulrich_tonmoy' target='_blank'><img align='left' alt="instagram" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/Instagram.svg" height='18px'/></a>
+
+<a href='https://www.youtube.com/channel/UC6b8Zl8uBuKYx0q5X-P2idQ' target='_blank'><img align='left' alt="youtube" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/YouTube.svg" height='18px'/></a>
 
 <br />
 <br />
