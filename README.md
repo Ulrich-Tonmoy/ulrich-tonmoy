@@ -27,12 +27,14 @@
 
 <br />
 <br />
-  <img align="right" alt="robot" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" />
-  <img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
+<p align="center">
+  <img alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
+  <img alt="robot" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px"/>
+</p>
+  
 <br />
 <br />
 
-<p align="center">
 <h2 align="center">   ⚡ Languages, Frameworks & Tools ⚡</h2>
 
 <code><img title="unity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unity3d.svg"></code>
@@ -56,8 +58,6 @@
 <code><img title="cpp" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cpp.svg"></code>
 <code><img title="c" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/c.svg"></code>
 <code><img title="java.svg" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/java.svg"></code>
-
-</p>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
 <p align="center">
