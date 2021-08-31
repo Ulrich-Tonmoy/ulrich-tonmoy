@@ -20,13 +20,15 @@
 
 <a href='https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/'><img align='left' alt="linkedin" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://discord.gg/3PXDND5e'><img align='left' alt="discord" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/discord.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/ulrichtonmoy'><img alt="kaggle" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/kaggle.svg" height='18px'/></a>
-<a href='https://www.instagram.com/ulrich_tonmoy'><img alt="instagram" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/Instagram.svg" height='18px'/></a>
+
+<a href='https://www.kaggle.com/ulrichtonmoy'><img align='left' alt="kaggle" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/kaggle.svg" height='18px'/></a>
+
+<a href='https://www.instagram.com/ulrich_tonmoy'><img align='left' alt="instagram" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/Instagram.svg" height='18px'/></a>
 
 <br />
 <br />
 <img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
-<img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px" height="433"/>
+<img align="left" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px" height="433"/>
 <br />
 <br />
 
