@@ -4,21 +4,18 @@
   </a>
 </h1>
 
-- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
+-   💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
 
-## **links:**  
-<a href="https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/">
-  <img height="40px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
-</a>
-<a href="https://discord.gg/3PXDND5e">
-  <img height="40px" src="https://img.icons8.com/cute-clipart/64/000000/discord-logo.png" />
-</a>
+## **links:**
+
+<a href='https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/'><img align='left' alt="linkedin" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/linkedin.svg" height='18px'/></a>
+<a href='https://discord.gg/3PXDND5e'><img align='left' alt="discord" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/discord.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/ulrichtonmoy'><img alt="kaggle" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/kaggle.svg" height='18px'/></a>
 
 <br />
 <br />
-<p align="center">
-  <img height="400" src="https://github.com/Ulrich-Tonmoy/Ulrich-Tonmoy/blob/main/robot.svg">
-</p>
+<img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px"/>
 <br />
 <br />
 
@@ -37,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## **Languages and Tools:**  
+## **Languages and Tools:**
 
 <code><img height="40" src="https://img.icons8.com/nolan/64/unity.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png"></code>
