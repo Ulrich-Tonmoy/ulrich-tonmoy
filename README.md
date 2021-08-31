@@ -31,10 +31,9 @@
   <img align="right" alt="robot" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="400px" height="433"/>
 <br />
 <br />
-<hr>
 
 <p align="center">
-<h2 align="center">⚡ Languages, Frameworks & Tools ⚡</h2>
+<h2 align="center">   ⚡ Languages, Frameworks & Tools ⚡</h2>
 
 <code><img title="unity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unity3d.svg"></code>
 <code><img title="C#" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cSharp.svg"></code>
