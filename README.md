@@ -47,7 +47,18 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 
-![Stats Overview](https://raw.githubusercontent.com/Ulrich-Tonmoy/github-stats-transparent/output/generated/overview.svg)
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Ulrich-Tonmoy&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
+  </a>
+</p>
+
+<h1 align="center"> 📊 Stats: </h1>
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact)](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy)
 
