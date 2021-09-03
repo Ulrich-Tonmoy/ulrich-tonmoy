@@ -49,6 +49,7 @@
 <code><img title="javascript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/javascript.svg"></code>
 <code><img title="react" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/react.svg"></code>
 <code><img title="redux" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/redux.svg"></code>
+<code><img title="node" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/nodejs.svg"></code>
 <code><img title="jquery" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/jquery.svg"></code>
 <code><img title="php" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/php.svg"></code>
 <code><img title="laravel" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/laravel.svg"></code>
