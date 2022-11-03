@@ -71,7 +71,7 @@
 <code><img title="php" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/php.svg"></code>
 <code><img title="laravel" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/laravel.svg"></code>
 <code><img title="c" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/c.svg"></code>
-<code><img title="java.svg" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/java.svg"></code>
+<code><img title="java" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/java.svg"></code>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
 <p align="center">
