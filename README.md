@@ -31,8 +31,8 @@
 <br />
 <br />
 <p align="center">
-  <img alt="robot" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px"/>
-  <img alt="GIF" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
+  <img alt="Robot" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px"/>
+  <img alt="TechStack" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
 </p>
   
 <br />
@@ -40,38 +40,39 @@
 
 <h2 align="center">   ⚡ Languages, Frameworks & Tools ⚡</h2>
 
-<code><img title="unity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unity.svg"></code>
+<code><img title="Unity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unity.svg"></code>
 <code><img title="C#" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cSharp.svg"></code>
-<code><img title="unreal engine" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unreal-engine.svg"></code>
-<code><img title="cpp" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cpp.svg"></code>
-<code><img title="blender" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blender.svg"></code>
-<code><img title="dotnet" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/dotnet.svg"></code>
-<code><img title="html" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/html5.svg"></code>
-<code><img title="css" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/css.svg"></code>
-<code><img title="sass" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sass.svg"></code>
-<code><img title="javascript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/javascript.svg"></code>
-<code><img title="typescript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/typescript.svg"></code>
-<code><img title="reactjs" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/reactjs.svg"></code>
-<code><img title="redux" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/redux.svg"></code>
-<code><img title="nextjs" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/nextjs.svg"></code>
-<code><img title="expressjs" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/express.svg"></code>
+<code><img title="Unreal Engine" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unreal-engine.svg"></code>
+<code><img title="C++" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cpp.svg"></code>
+<code><img title="Blender" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blender.svg"></code>
+<code><img title="MSSQL" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mssql.svg"></code>
+<code><img title="Angular" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/angular.svg"></code>
+<code><img title=".Net" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/dotnet.svg"></code>
+<code><img title="MongoDB" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mongodb.svg"></code>
+<code><img title="ExpressJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/express.svg"></code>
+<code><img title="ReactJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/reactjs.svg"></code>
 <code><img title="node" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/nodejs.svg"></code>
+<code><img title="Redux" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/redux.svg"></code>
+<code><img title="NextJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/nextjs.svg"></code>
+<code><img title="HTML" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/html5.svg"></code>
+<code><img title="CSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/css.svg"></code>
+<code><img title="SASS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sass.svg"></code>
+<code><img title="JavaScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/javascript.svg"></code>
+<code><img title="typescript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/typescript.svg"></code>
 <code><img title="npm" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/npm.svg"></code>
-<code><img title="vite" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vite.svg"></code>
-<code><img title="mongodb" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mongodb.svg"></code>
-<code><img title="mssql" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mssql.svg"></code>
-<code><img title="mysql" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mysql.svg"></code>
-<code><img title="python" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/python.svg"></code>
-<code><img title="tensorflow" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/tensorflow.svg"></code>
-<code><img title="pytorch" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pytorch.svg"></code>
-<code><img title="sharepoint" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sp.svg"></code>
-<code><img title="power virtual agent" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pva.svg"></code>
-<code><img title="power automate" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pa.svg"></code>
-<code><img title="jquery" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/jquery.svg"></code>
-<code><img title="php" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/php.svg"></code>
-<code><img title="laravel" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/laravel.svg"></code>
-<code><img title="c" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/c.svg"></code>
-<code><img title="java" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/java.svg"></code>
+<code><img title="Vite" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vite.svg"></code>
+<code><img title="MySQL" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mysql.svg"></code>
+<code><img title="Python" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/python.svg"></code>
+<code><img title="tensorflow" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/TensorFlow.svg"></code>
+<code><img title="PyTorch" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pytorch.svg"></code>
+<code><img title="SharePoint" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sp.svg"></code>
+<code><img title="Power Virtual Agent" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pva.svg"></code>
+<code><img title="Power Automate" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pa.svg"></code>
+<code><img title="JQuery" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/jquery.svg"></code>
+<code><img title="PHP" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/php.svg"></code>
+<code><img title="Laravel" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/laravel.svg"></code>
+<code><img title="C" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/c.svg"></code>
+<code><img title="Java" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/java.svg"></code>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
 <p align="center">
