@@ -47,7 +47,7 @@
 <code><img title="Blender" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blender.svg"></code>
 <code><img title="MSSQL" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mssql.svg"></code>
 <code><img title="Angular" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/angular.svg"></code>
-<code><img title=".Net" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/dotnet.svg"></code>
+<code><img title="ASP.Net Core" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/dotnet.svg"></code>
 <code><img title="MongoDB" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mongodb.svg"></code>
 <code><img title="ExpressJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/express.svg"></code>
 <code><img title="ReactJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/reactjs.svg"></code>
