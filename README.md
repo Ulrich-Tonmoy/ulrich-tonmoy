@@ -65,14 +65,6 @@
 <code><img title="Power Virtual Agent" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pva.svg"></code>
 <code><img title="Power Automate" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pa.svg"></code>
 <code><img title="Python" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/python.svg"></code>
-<code><img title="TensorFlow" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/tensorflow.svg"></code>
-<code><img title="PyTorch" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pytorch.svg"></code>
-<code><img title="MySQL" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mysql.svg"></code>
-<code><img title="PHP" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/php.svg"></code>
-<code><img title="Laravel" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/laravel.svg"></code>
-<code><img title="JQuery" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/jquery.svg"></code>
-<code><img title="C" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/c.svg"></code>
-<code><img title="Java" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/java.svg"></code>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
 <p align="center">
