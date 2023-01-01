@@ -90,7 +90,7 @@
 </p>
 
 <h1 align="center"> 👀 Views 👀</h1>
-Counting of visitors of this page in this section started from January 1, 2023.
+Counting of visitors started from January 1, 2023.
 <br>
 <br>
 <a href="https://info.flagcounter.com/dtQ8"><img src="https://s01.flagcounter.com/count2/dtQ8/bg_000000/txt_FFFFFF/border_08FF94/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
