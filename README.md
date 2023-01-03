@@ -67,11 +67,10 @@
 <code><img title="Python" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/python.svg"></code>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ulrich-Tonmoy&theme=dracula&column=8&no-frame=true&no-bg=true">
-  </a>
-</p>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ulrich-Tonmoy&theme=dracula&column=8&no-frame=true&no-bg=true">
+</a>
 
 <h1 align="center"> 📊 Stats 📊</h1>
 
@@ -80,14 +79,10 @@
 
 <h1 align="center"> 🔥 Contributions 🔥</h1>
 
-<p align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
 </a>
-
-</p>
 
 <h1 align="center"> 👀 Visitors 👀</h1>
 Counting of visitors started from January 1, 2023.
