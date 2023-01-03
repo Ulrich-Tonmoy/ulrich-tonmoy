@@ -80,20 +80,18 @@
 
 <h1 align="center"> 🔥 Contributions 🔥</h1>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Ulrich-Tonmoy&theme=react&background=0d1117&border=666">
-  </a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&hide_border=true&fire=DDB500)](https://git.io/streak-stats)
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
   </a>
 </p>
 
-<h1 align="center"> 👀 Views 👀</h1>
+<h1 align="center"> 👀 Visitors 👀</h1>
 Counting of visitors started from January 1, 2023.
-<br>
+
 <br>
 <a href="https://info.flagcounter.com/dtQ8"><img src="https://s01.flagcounter.com/count2/dtQ8/bg_000000/txt_FFFFFF/border_08FF94/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-<br>
-  
+
 ![](https://count.getloli.com/get/@ulrich-tonmoy.github.readme)
