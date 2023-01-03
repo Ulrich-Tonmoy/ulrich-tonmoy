@@ -82,7 +82,7 @@
 
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&hide_border=true&fire=DDB500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
 </a>
