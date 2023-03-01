@@ -64,6 +64,7 @@
 <code><img title="SharePoint" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sp.svg"></code>
 <code><img title="Power Virtual Agent" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pva.svg"></code>
 <code><img title="Power Automate" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pa.svg"></code>
+<code><img title="Salesforce Developer" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/salesforce.svg"></code>
 <code><img title="Python" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/python.svg"></code>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
