@@ -13,8 +13,8 @@
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ... -->
 
--   💻 I love writing code and learn anythings about it
--   💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
+- 💻 I love writing code and learn anythings about it
+- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
 
 ## **links:**
 
@@ -44,6 +44,7 @@
 <code><img title="C#" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cSharp.svg"></code>
 <code><img title="Unreal Engine" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unreal-engine.svg"></code>
 <code><img title="C++" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cpp.svg"></code>
+<code><img title="Godot" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/godot.svg"></code>
 <code><img title="Blender" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blender.svg"></code>
 <code><img title="MSSQL" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mssql.svg"></code>
 <code><img title="Angular" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/angular.svg"></code>
@@ -56,11 +57,24 @@
 <code><img title="NextJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/nextjs.svg"></code>
 <code><img title="HTML" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/html5.svg"></code>
 <code><img title="CSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/css.svg"></code>
-<code><img title="JavaScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/javascript.svg"></code>
+<code><img title="PostCSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/postcss.svg"></code>
 <code><img title="SASS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sass.svg"></code>
+<code><img title="Tailwind CSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/tailwind-css.svg"></code>
+<code><img title="Material UI" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mui.svg"></code>
+<code><img title="Ant Design" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/ant-design.svg"></code>
+<code><img title="Bootstrap" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/bootstrap.svg"></code>
+<code><img title="JavaScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/javascript.svg"></code>
 <code><img title="TypeScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/typescript.svg"></code>
+<code><img title="Three.js" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/three.js.svg"></code>
+<code><img title="Socket.io" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/socket.io.js.svg"></code>
+<code><img title="Sanity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sanity.svg"></code>
+<code><img title="Firebase" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/firebase.svg"></code>
 <code><img title="npm" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/npm.svg"></code>
 <code><img title="Vite" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vite.svg"></code>
+<code><img title="Git" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/git.svg"></code>
+<code><img title="Azure" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/azure.svg"></code>
+<code><img title="Visual Studio" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vs.svg"></code>
+<code><img title="VS Code" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vs-code.svg"></code>
 <code><img title="SharePoint" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sp.svg"></code>
 <code><img title="Power Virtual Agent" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pva.svg"></code>
 <code><img title="Power Automate" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pa.svg"></code>
