@@ -48,6 +48,7 @@
 <code><img title="Blender" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blender.svg"></code>
 <code><img title="MSSQL" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mssql.svg"></code>
 <code><img title="Angular" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/angular.svg"></code>
+<code><img title="Blazor" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blazor.svg"></code>
 <code><img title="ASP.Net Core" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/dotnet.svg"></code>
 <code><img title="MongoDB" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mongodb.svg"></code>
 <code><img title="ExpressJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/express.svg"></code>
@@ -61,8 +62,9 @@
 <code><img title="SASS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sass.svg"></code>
 <code><img title="Tailwind CSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/tailwind-css.svg"></code>
 <code><img title="Material UI" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mui.svg"></code>
-<code><img title="Ant Design" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/ant-design.svg"></code>
 <code><img title="Bootstrap" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/bootstrap.svg"></code>
+<code><img title="Chakra UI" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/chakra-ui.svg"></code>
+<code><img title="Ant Design" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/ant-design.svg"></code>
 <code><img title="JavaScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/javascript.svg"></code>
 <code><img title="TypeScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/typescript.svg"></code>
 <code><img title="Three.js" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/three.js.svg"></code>
