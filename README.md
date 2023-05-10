@@ -76,6 +76,9 @@
 <code><img title="Firebase" height="30" src="./assets/firebase.svg"></code>
 <code><img title="npm" height="30" src="./assets/npm.svg"></code>
 <code><img title="Vite" height="30" src="./assets/vite.svg"></code>
+<code><img title="Rust" height="30" src="./assets/rust.svg"></code>
+<code><img title="Tauri" height="30" src="./assets/tauri.svg"></code>
+<code><img title="Python" height="30" src="./assets/python.svg"></code>
 <code><img title="Git" height="30" src="./assets/git.svg"></code>
 <code><img title="Azure" height="30" src="./assets/azure.svg"></code>
 <code><img title="Visual Studio" height="30" src="./assets/vs.svg"></code>
@@ -83,7 +86,6 @@
 <code><img title="SharePoint" height="30" src="./assets/sp.svg"></code>
 <code><img title="Power Virtual Agent" height="30" src="./assets/pva.svg"></code>
 <code><img title="Power Automate" height="30" src="./assets/pa.svg"></code>
-<code><img title="Python" height="30" src="./assets/python.svg"></code>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
 
