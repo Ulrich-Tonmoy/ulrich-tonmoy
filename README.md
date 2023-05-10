@@ -33,8 +33,8 @@
 <br />
 <br />
 <p align="center">
-  <img alt="Robot" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/robot.svg" width="360px"/>
-  <img alt="TechStack" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/techstack.gif" width="360px"/>
+  <img alt="Robot" src="./assets/robot.svg" width="360px"/>
+  <img alt="TechStack" src="./assets/techstack.gif" width="360px"/>
 </p>
   
 <br />
@@ -42,48 +42,48 @@
 
 <h2 align="center">   ⚡ Languages, Frameworks & Tools ⚡</h2>
 
-<code><img title="Unity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unity.svg"></code>
-<code><img title="C#" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cSharp.svg"></code>
-<code><img title="Unreal Engine" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/unreal-engine.svg"></code>
-<code><img title="C++" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/cpp.svg"></code>
-<code><img title="Godot" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/godot.svg"></code>
-<code><img title="Blender" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blender.svg"></code>
-<code><img title="MSSQL" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mssql.svg"></code>
-<code><img title="Angular" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/angular.svg"></code>
-<code><img title="Blazor" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/blazor.svg"></code>
-<code><img title="ASP.Net Core" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/dotnet.svg"></code>
-<code><img title="MongoDB" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mongodb.svg"></code>
-<code><img title="ExpressJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/express.svg"></code>
-<code><img title="ReactJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/reactjs.svg"></code>
-<code><img title="node" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/nodejs.svg"></code>
-<code><img title="Redux" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/redux.svg"></code>
-<code><img title="NextJS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/nextjs.svg"></code>
-<code><img title="HTML" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/html5.svg"></code>
-<code><img title="CSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/css.svg"></code>
-<code><img title="PostCSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/postcss.svg"></code>
-<code><img title="SASS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sass.svg"></code>
-<code><img title="Tailwind CSS" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/tailwind-css.svg"></code>
-<code><img title="Material UI" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/mui.svg"></code>
-<code><img title="Bootstrap" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/bootstrap.svg"></code>
-<code><img title="Chakra UI" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/chakra-ui.svg"></code>
-<code><img title="Ant Design" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/ant-design.svg"></code>
-<code><img title="JavaScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/javascript.svg"></code>
-<code><img title="TypeScript" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/typescript.svg"></code>
-<code><img title="Three.js" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/three.js.svg"></code>
-<code><img title="Socket.io" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/socket.io.svg"></code>
-<code><img title="WebRTC" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/webrtc.svg"></code>
-<code><img title="Sanity" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sanity.svg"></code>
-<code><img title="Firebase" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/firebase.svg"></code>
-<code><img title="npm" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/npm.svg"></code>
-<code><img title="Vite" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vite.svg"></code>
-<code><img title="Git" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/git.svg"></code>
-<code><img title="Azure" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/azure.svg"></code>
-<code><img title="Visual Studio" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vs.svg"></code>
-<code><img title="VS Code" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/vs-code.svg"></code>
-<code><img title="SharePoint" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/sp.svg"></code>
-<code><img title="Power Virtual Agent" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pva.svg"></code>
-<code><img title="Power Automate" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/pa.svg"></code>
-<code><img title="Python" height="30" src="https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/blob/main/assets/python.svg"></code>
+<code><img title="Unity" height="30" src="./assets/unity.svg"></code>
+<code><img title="C#" height="30" src="./assets/cSharp.svg"></code>
+<code><img title="Unreal Engine" height="30" src="./assets/unreal-engine.svg"></code>
+<code><img title="C++" height="30" src="./assets/cpp.svg"></code>
+<code><img title="Godot" height="30" src="./assets/godot.svg"></code>
+<code><img title="Blender" height="30" src="./assets/blender.svg"></code>
+<code><img title="MSSQL" height="30" src="./assets/mssql.svg"></code>
+<code><img title="Angular" height="30" src="./assets/angular.svg"></code>
+<code><img title="Blazor" height="30" src="./assets/blazor.svg"></code>
+<code><img title="ASP.Net Core" height="30" src="./assets/dotnet.svg"></code>
+<code><img title="MongoDB" height="30" src="./assets/mongodb.svg"></code>
+<code><img title="ExpressJS" height="30" src="./assets/express.svg"></code>
+<code><img title="ReactJS" height="30" src="./assets/reactjs.svg"></code>
+<code><img title="node" height="30" src="./assets/nodejs.svg"></code>
+<code><img title="Redux" height="30" src="./assets/redux.svg"></code>
+<code><img title="NextJS" height="30" src="./assets/nextjs.svg"></code>
+<code><img title="HTML" height="30" src="./assets/html5.svg"></code>
+<code><img title="CSS" height="30" src="./assets/css.svg"></code>
+<code><img title="PostCSS" height="30" src="./assets/postcss.svg"></code>
+<code><img title="SASS" height="30" src="./assets/sass.svg"></code>
+<code><img title="Tailwind CSS" height="30" src="./assets/tailwind-css.svg"></code>
+<code><img title="Material UI" height="30" src="./assets/mui.svg"></code>
+<code><img title="Bootstrap" height="30" src="./assets/bootstrap.svg"></code>
+<code><img title="Chakra UI" height="30" src="./assets/chakra-ui.svg"></code>
+<code><img title="Ant Design" height="30" src="./assets/ant-design.svg"></code>
+<code><img title="JavaScript" height="30" src="./assets/javascript.svg"></code>
+<code><img title="TypeScript" height="30" src="./assets/typescript.svg"></code>
+<code><img title="Three.js" height="30" src="./assets/three.js.svg"></code>
+<code><img title="Socket.io" height="30" src="./assets/socket.io.svg"></code>
+<code><img title="WebRTC" height="30" src="./assets/webrtc.svg"></code>
+<code><img title="Sanity" height="30" src="./assets/sanity.svg"></code>
+<code><img title="Firebase" height="30" src="./assets/firebase.svg"></code>
+<code><img title="npm" height="30" src="./assets/npm.svg"></code>
+<code><img title="Vite" height="30" src="./assets/vite.svg"></code>
+<code><img title="Git" height="30" src="./assets/git.svg"></code>
+<code><img title="Azure" height="30" src="./assets/azure.svg"></code>
+<code><img title="Visual Studio" height="30" src="./assets/vs.svg"></code>
+<code><img title="VS Code" height="30" src="./assets/vs-code.svg"></code>
+<code><img title="SharePoint" height="30" src="./assets/sp.svg"></code>
+<code><img title="Power Virtual Agent" height="30" src="./assets/pva.svg"></code>
+<code><img title="Power Automate" height="30" src="./assets/pa.svg"></code>
+<code><img title="Python" height="30" src="./assets/python.svg"></code>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
 
