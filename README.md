@@ -34,7 +34,7 @@
 <br />
 <p align="center">
   <img alt="Robot" src="./assets/robot.svg" width="360px"/>
-  <img alt="TechStack" src="./assets/techstack.gif" width="360px"/>
+  <img alt="Code" src="./assets/code.gif" width="360px"/>
 </p>
   
 <br />
