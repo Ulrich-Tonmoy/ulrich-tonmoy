@@ -5,33 +5,19 @@
 </h1>
 
 <!--
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
 -   👯 I’m looking to collaborate on ...
 -   🤔 I’m looking for help with ...
--   💬 Ask me about ...
 -   📫 How to reach me: ...
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ...
 -->
 
-- 💻 I love writing code and learn anythings about it
-- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues)
+- 💻 I love learn new technologies 💻,
+  A hobbyist game 🎮, AI 🤖 and XR 🥽 developer.
+- 🔭 I’m currently working on A Game Engine
+- 🌱 I’m currently learning Angular and .NET
+- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [portfolio](https://ulrich-tonmoy.github.io/) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy) or [youtube](https://www.youtube.com/@UlrichTonmoy)
 
-## **links:**
-
-<a href='https://www.linkedin.com/in/ulrich-tonmoy-7817ba193/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
-
-<a href='https://discord.gg/3PXDND5e'><img align='left' alt="discord" src="./assets/discord.svg" height='18px'/></a>
-
-<a href='https://www.kaggle.com/ulrichtonmoy'><img align='left' alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
-
-<a href='https://www.instagram.com/ulrich_tonmoy'><img align='left' alt="instagram" src="./assets/instagram.svg" height='18px'/></a>
-
-<a href='https://www.youtube.com/channel/UC6b8Zl8uBuKYx0q5X-P2idQ'><img align='left' alt="youtube" src="./assets/youtube.svg" height='18px'/></a>
-
-<br />
-<br />
 <p align="center">
   <img alt="Robot" src="./assets/robot.svg" width="360px"/>
   <img alt="Code" src="./assets/code.gif" width="360px"/>
