@@ -16,7 +16,9 @@
   A hobbyist game 🎮, AI 🤖 and XR 🥽 developer.
 - 🔭 I’m currently working on A Game Engine
 - 🌱 I’m currently learning Angular and .NET
-- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [portfolio](https://ulrich-tonmoy.github.io/) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy) or [youtube](https://www.youtube.com/@UlrichTonmoy)
+- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [portfolio](https://ulrich-tonmoy.github.io/) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
   <img alt="Robot" src="./assets/robot.svg" width="360px"/>
@@ -26,7 +28,7 @@
 <br />
 <br />
 
-<h2 align="center">   ⚡ Languages, Frameworks & Tools ⚡</h2>
+<h2 align="center">💻 Languages, Frameworks & Tools 💻</h2>
 
 <code><img title="Unity" height="30" src="./assets/unity.svg"></code>
 <code><img title="C#" height="30" src="./assets/cSharp.svg"></code>
