@@ -31,11 +31,12 @@
 <h2 align="center">💻 Languages, Frameworks & Tools 💻</h2>
 
 <code><img title="Unity" height="30" src="./assets/unity.svg"></code>
-<code><img title="C#" height="30" src="./assets/cSharp.svg"></code>
 <code><img title="Unreal Engine" height="30" src="./assets/unreal-engine.svg"></code>
-<code><img title="C++" height="30" src="./assets/cpp.svg"></code>
 <code><img title="Godot" height="30" src="./assets/godot.svg"></code>
 <code><img title="Blender" height="30" src="./assets/blender.svg"></code>
+<code><img title="C#" height="30" src="./assets/cSharp.svg"></code>
+<code><img title="C++" height="30" src="./assets/cpp.svg"></code>
+<code><img title="C" height="30" src="./assets/c.svg"></code>
 <code><img title="MSSQL" height="30" src="./assets/mssql.svg"></code>
 <code><img title="Angular" height="30" src="./assets/angular.svg"></code>
 <code><img title="Blazor" height="30" src="./assets/blazor.svg"></code>
@@ -43,7 +44,7 @@
 <code><img title="MongoDB" height="30" src="./assets/mongodb.svg"></code>
 <code><img title="ExpressJS" height="30" src="./assets/express.svg"></code>
 <code><img title="ReactJS" height="30" src="./assets/reactjs.svg"></code>
-<code><img title="node" height="30" src="./assets/nodejs.svg"></code>
+<code><img title="Node" height="30" src="./assets/nodejs.svg"></code>
 <code><img title="Redux" height="30" src="./assets/redux.svg"></code>
 <code><img title="NextJS" height="30" src="./assets/nextjs.svg"></code>
 <code><img title="HTML" height="30" src="./assets/html5.svg"></code>
@@ -51,6 +52,7 @@
 <code><img title="PostCSS" height="30" src="./assets/postcss.svg"></code>
 <code><img title="SASS" height="30" src="./assets/sass.svg"></code>
 <code><img title="Tailwind CSS" height="30" src="./assets/tailwind-css.svg"></code>
+<code><img title="Shadcn/UI" height="30" src="./assets/shadcn.svg"></code>
 <code><img title="Material UI" height="30" src="./assets/mui.svg"></code>
 <code><img title="Bootstrap" height="30" src="./assets/bootstrap.svg"></code>
 <code><img title="Chakra UI" height="30" src="./assets/chakra-ui.svg"></code>
@@ -62,11 +64,14 @@
 <code><img title="WebRTC" height="30" src="./assets/webrtc.svg"></code>
 <code><img title="Sanity" height="30" src="./assets/sanity.svg"></code>
 <code><img title="Firebase" height="30" src="./assets/firebase.svg"></code>
+<code><img title="Supabase" height="30" src="./assets/supabase.svg"></code>
+<code><img title="Prisma" height="30" src="./assets/prisma.svg"></code>
+<code><img title="Clerk" height="30" src="./assets/clerk.svg"></code>
 <code><img title="npm" height="30" src="./assets/npm.svg"></code>
 <code><img title="Vite" height="30" src="./assets/vite.svg"></code>
+<code><img title="Python" height="30" src="./assets/python.svg"></code>
 <code><img title="Rust" height="30" src="./assets/rust.svg"></code>
 <code><img title="Tauri" height="30" src="./assets/tauri.svg"></code>
-<code><img title="Python" height="30" src="./assets/python.svg"></code>
 <code><img title="Git" height="30" src="./assets/git.svg"></code>
 <code><img title="Azure" height="30" src="./assets/azure.svg"></code>
 <code><img title="Visual Studio" height="30" src="./assets/vs.svg"></code>
