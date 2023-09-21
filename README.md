@@ -49,7 +49,6 @@
 <code><img title="NextJS" height="30" src="./assets/nextjs.svg"></code>
 <code><img title="HTML" height="30" src="./assets/html5.svg"></code>
 <code><img title="CSS" height="30" src="./assets/css.svg"></code>
-<code><img title="PostCSS" height="30" src="./assets/postcss.svg"></code>
 <code><img title="SASS" height="30" src="./assets/sass.svg"></code>
 <code><img title="Tailwind CSS" height="30" src="./assets/tailwind-css.svg"></code>
 <code><img title="Shadcn/UI" height="30" src="./assets/shadcn.svg"></code>
