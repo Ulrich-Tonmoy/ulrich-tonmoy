@@ -33,8 +33,7 @@
 <code><img title="Unreal Engine" height="30" src="./assets/unreal-engine.svg"></code>
 <code><img title="Godot" height="30" src="./assets/godot.svg"></code>
 <code><img title="Blender" height="30" src="./assets/blender.svg"></code>
-<code><img title="C" height="30" src="./assets/c.svg"></code>
-<code><img title="C++" height="30" src="./assets/cpp.svg"></code>
+<code><img title="C/C++" height="30" src="./assets/cpp.svg"></code>
 <code><img title="C#" height="30" src="./assets/cSharp.svg"></code>
 <code><img title="MSSQL" height="30" src="./assets/mssql.svg"></code>
 <code><img title="Angular" height="30" src="./assets/angular.svg"></code>
