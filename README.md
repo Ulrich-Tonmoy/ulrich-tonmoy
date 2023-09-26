@@ -32,7 +32,7 @@
 
 <p align="center">
   <img title="Godot" height="30" src="./assets/godot.svg">
-  <img title="Unreal Engine" height="30" src="./assets/unreal-engine.svg">
+  <img title="Unreal Engine" height="30" src="./assets/unreal-engine.png">
   <img title="Blender" height="30" src="./assets/blender.svg">
   <img title="C#" height="30" src="./assets/cSharp.svg">
   <img title="C/C++" height="30" src="./assets/cpp.svg">
