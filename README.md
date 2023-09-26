@@ -47,7 +47,7 @@
   <img title="Node" height="30" src="./assets/nodejs.svg">
   <img title="Zustand" height="30" src="./assets/zustand.png">
   <img title="Redux" height="30" src="./assets/redux.svg">
-  <img title="NextJS" height="30" src="./assets/nextjs.svg" style="background:white;border-radius:50%">
+  <img title="NextJS" height="30" src="./assets/nextjs.svg">
   <img title="HTML" height="30" src="./assets/html5.svg">
   <img title="CSS" height="30" src="./assets/css.svg">
   <img title="SASS" height="30" src="./assets/sass.svg">
@@ -59,8 +59,8 @@
   <img title="Ant Design" height="30" src="./assets/ant-design.svg">
   <img title="JavaScript" height="30" src="./assets/javascript.svg">
   <img title="TypeScript" height="30" src="./assets/typescript.svg">
-  <img title="Three.js" height="30" src="./assets/three.js.svg" style="background:white;border-radius:45%">
-  <img title="Socket.io" height="30" src="./assets/socket.io.svg" style="background:white;border-radius:50%">
+  <img title="Three.js" height="30" src="./assets/three.js.svg">
+  <img title="Socket.io" height="30" src="./assets/socket.io.svg">
   <img title="Sanity" height="30" src="./assets/sanity.svg">
   <img title="Firebase" height="30" src="./assets/firebase.svg">
   <img title="Supabase" height="30" src="./assets/supabase.svg">
@@ -68,7 +68,7 @@
   <img title="Clerk" height="30" src="./assets/clerk.svg">
   <img title="Vite" height="30" src="./assets/vite.svg">
   <img title="Python" height="30" src="./assets/python.svg">
-  <img title="Rust" height="30" src="./assets/rust.svg" style="background:white;border-radius:50%">
+  <img title="Rust" height="30" src="./assets/rust.svg">
   <img title="Tauri" height="30" src="./assets/tauri.svg">
   <img title="Git" height="30" src="./assets/git.svg">
   <img title="Visual Studio" height="30" src="./assets/vs.svg">
