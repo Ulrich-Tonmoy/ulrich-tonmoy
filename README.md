@@ -113,7 +113,8 @@
 <img src="./assets/flame.gif" width="16px" align="left"/>
 <img src="./assets/flame.gif" width="16px" align="right"/>
 
-<h1 align="center">🔥 Contributions 🔥 <img src="./assets/separator.gif" width="100%"/></h1>
+<h1 align="center">🔥 Contributions 🔥 </h1>
+<img src="./assets/separator.gif" width="100%"/>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
