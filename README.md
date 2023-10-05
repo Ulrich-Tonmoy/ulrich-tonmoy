@@ -35,7 +35,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none; padding-bottom: 0; margin: 0;" align="center">💻 Languages, Frameworks & Tools 💻</h1>
+<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;" align="center">💻 Languages, Frameworks & Tools 💻</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 <p align="center">
@@ -89,7 +89,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none; padding-bottom: 0; margin: 0;"  align="center">🏆 Trophies 🏆</h1>
+<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">🏆 Trophies 🏆</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -98,12 +98,13 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none; padding-bottom: 0; margin: 0;"  align="center">📊 Stats 📊</h1>
+<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">📊 Stats 📊</h1>
 <img src="./assets/separator.gif" width="100%"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -111,7 +112,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none; padding-bottom: 0; margin: 0;"  align="center">🔥 Contributions 🔥 </h1>
+<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">🔥 Contributions 🔥 </h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -120,7 +121,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none; padding-bottom: 0; margin: 0;"  align="center">👀 Visitors 👀</h1>
+<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">👀 Visitors 👀</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 Counting of visitors started from January 1, 2023.
