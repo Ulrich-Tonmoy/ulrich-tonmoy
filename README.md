@@ -25,20 +25,20 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
+<div align="center">
   <img alt="Robot" src="./assets/robot.svg" width="360px"/>
   <img alt="Code" src="./assets/code.gif" width="360px"/>
-</p>
+</div>
   
 <br />
 <br />
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;" align="center">💻 Languages, Frameworks & Tools 💻</h1>
+<h1 style="" align="center">💻 Languages, Frameworks & Tools 💻</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
-<p align="center">
+<div align="center">
   <img title="Godot" height="30" src="./assets/icons/godot.svg">
   <img title="Unreal Engine" height="30" src="./assets/icons/unreal-engine.svg">
   <img title="Blender" height="30" src="./assets/icons/blender.svg">
@@ -85,7 +85,7 @@
   <img title="SharePoint" height="30" src="./assets/icons/sp.svg">
   <img title="Power Virtual Agent" height="30" src="./assets/icons/pva.svg">
   <img title="Power Automate" height="30" src="./assets/icons/pa.svg">
-</p>
+</div>
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
@@ -101,14 +101,20 @@
 <h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">📊 Stats 📊</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
+<div align="center">
+<div align="left">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
+</div>
+
+<div align="right">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</div>
+</div>
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
@@ -130,3 +136,13 @@ Counting of visitors started from January 1, 2023.
 <a href="https://info.flagcounter.com/dtQ8"><img src="https://s01.flagcounter.com/count2/dtQ8/bg_000000/txt_FFFFFF/border_08FF94/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ![](https://count.getloli.com/get/@ulrich-tonmoy.github.readme)
+
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        h1 {
+          border-bottom: none !important; 
+          padding-bottom: 0 !important; 
+          margin: 0 !important;
+        }
+      </style>
+</svg>
