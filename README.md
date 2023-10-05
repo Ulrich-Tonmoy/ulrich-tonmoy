@@ -89,17 +89,23 @@
   <img title="Power Automate" height="30" src="./assets/icons/pa.svg">
 </div>
 
+<div align="center">
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
 <h1 align="center">🏆 Trophies 🏆</h1>
+<img src="./assets/separator.gif" width="100%"/>
+</div>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Ulrich-Tonmoy&theme=dracula&column=8&no-frame=true&no-bg=true">
 </a>
 
+<div align="center">
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
 <h1 align="center">📊 Stats 📊</h1>
+<img src="./assets/separator.gif" width="100%"/>
+</div>
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact&langs_count=30" alt="Top Langs">
@@ -109,17 +115,23 @@
 
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
 <h1 align="center">🔥 Contributions 🔥 </h1>
+<img src="./assets/separator.gif" width="100%"/>
+</div>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
 </a>
 
+<div align="center">
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
 <h1 align="center">👀 Visitors 👀</h1>
+<img src="./assets/separator.gif" width="100%"/>
+</div>
 
 Counting of visitors started from January 1, 2023.
 <br>
