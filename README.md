@@ -89,7 +89,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">🏆 Trophies 🏆</h1>
+<h1 align="center">🏆 Trophies 🏆</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -98,7 +98,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">📊 Stats 📊</h1>
+<h1 align="center">📊 Stats 📊</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 <div align="center">
@@ -111,6 +111,7 @@
 <div align="right">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
+
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -118,7 +119,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">🔥 Contributions 🔥 </h1>
+<h1 align="center">🔥 Contributions 🔥 </h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -127,7 +128,7 @@
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-<h1 style="border-bottom: none !important; padding-bottom: 0 !important; margin: 0 !important;"  align="center">👀 Visitors 👀</h1>
+<h1 align="center">👀 Visitors 👀</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
 Counting of visitors started from January 1, 2023.
@@ -136,13 +137,3 @@ Counting of visitors started from January 1, 2023.
 <a href="https://info.flagcounter.com/dtQ8"><img src="https://s01.flagcounter.com/count2/dtQ8/bg_000000/txt_FFFFFF/border_08FF94/columns_8/maxflags_20/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ![](https://count.getloli.com/get/@ulrich-tonmoy.github.readme)
-
-<svg fill="none" xmlns="http://www.w3.org/2000/svg">
-      <style>
-        h1 {
-          border-bottom: none !important; 
-          padding-bottom: 0 !important; 
-          margin: 0 !important;
-        }
-      </style>
-</svg>
