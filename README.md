@@ -111,17 +111,19 @@
 </p>
 
 <img src="./assets/separator.gif" width="100%"/>
+
 <img src="./assets/flame.gif" width="16px" align="left"/>
 <img src="./assets/flame.gif" width="16px" align="right"/>
+
 <h1 align="center">🔥 Contributions 🔥<img src="./assets/separator.gif" width="100%"/></h1>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
 </a>
 
-<img src="./assets/separator.gif" width="100%"/>
 <img src="./assets/flame.gif" width="16px" align="left"/>
 <img src="./assets/flame.gif" width="16px" align="right"/>
+
 <h1 align="center">👀 Visitors 👀<img src="./assets/separator.gif" width="100%"/></h1>
 
 Counting of visitors started from January 1, 2023.
