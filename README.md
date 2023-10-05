@@ -37,6 +37,7 @@
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
 <h1 align="center">💻 Languages, Frameworks & Tools 💻</h1>
+<img src="./assets/separator.gif" width="100%"/>
 </div>
 
 <div align="center">
