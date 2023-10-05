@@ -101,21 +101,9 @@
 <h1 align="center">📊 Stats 📊</h1>
 <img src="./assets/separator.gif" width="100%"/>
 
-<div align="center">
-<div align="left">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="right">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
-
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-</div>
 
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
