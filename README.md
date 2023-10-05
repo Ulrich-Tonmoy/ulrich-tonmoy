@@ -1,8 +1,13 @@
-<h1 align="center">
+<img src="./assets/pixel-night-banner.gif" align="center" alt="Banner"/>
+<div align="center">
+<img src="./assets/separator.gif" width="100%"/>
+  <img src="./assets/flame.gif" width="3%" align="left"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there+👋!;Welcome+to+my+profile!;I+am+Tonmoy;A+passionate+AI/ML,+Game;and+Web+developer.&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+there+👋!;Welcome+to+my+profile!;I+am+Tonmoy;A+passionate+Game,+AI/ML;and+Web+developer.&center=true&vCenter=true&size=27" alt="Hi, there 👋!Welcome to my profile! I am Tonmoy. A passionate Game AI/ML and Web developer."/>
   </a>
-</h1>
+  <img src="./assets/flame.gif" width="3%" align="right"/>
+<img src="./assets/separator.gif" width="100%"/>
+</div>
 
 <!--
 -   👯 I’m looking to collaborate on ...
@@ -28,7 +33,10 @@
 <br />
 <br />
 
-<h2 align="center">💻 Languages, Frameworks & Tools 💻</h2>
+<img src="./assets/flame.gif" width="16px" align="left"/>
+<img src="./assets/flame.gif" width="16px" align="right"/>
+
+<h1 align="center">💻 Languages, Frameworks & Tools 💻 <img src="./assets/separator.gif" width="100%"/></h1>
 
 <p align="center">
   <img title="Godot" height="30" src="./assets/icons/godot.svg">
@@ -79,25 +87,43 @@
   <img title="Power Automate" height="30" src="./assets/icons/pa.svg">
 </p>
 
-<h1 align="center"> 🏆 Trophies 🏆</h1>
+<img src="./assets/separator.gif" width="100%"/>
+<img src="./assets/flame.gif" width="16px" align="left"/>
+<img src="./assets/flame.gif" width="16px" align="right"/>
+<h1 align="center">🏆 Trophies 🏆<img src="./assets/separator.gif" width="100%"/></h1>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Ulrich-Tonmoy&theme=dracula&column=8&no-frame=true&no-bg=true">
 </a>
 
-<h1 align="center"> 📊 Stats 📊</h1>
+<img src="./assets/separator.gif" width="100%"/>
+<img src="./assets/flame.gif" width="16px" align="left"/>
+<img src="./assets/flame.gif" width="16px" align="right"/>
+<h1 align="center">📊 Stats 📊<img src="./assets/separator.gif" width="100%"/></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulrich-Tonmoy&theme=blue-green&layout=compact&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
-[![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center"> 🔥 Contributions 🔥</h1>
+<p align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
+[![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+<img src="./assets/separator.gif" width="100%"/>
+<img src="./assets/flame.gif" width="16px" align="left"/>
+<img src="./assets/flame.gif" width="16px" align="right"/>
+<h1 align="center">🔥 Contributions 🔥<img src="./assets/separator.gif" width="100%"/></h1>
+
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ulrich-Tonmoy&theme=react-dark&hide_border=true">
 </a>
 
-<h1 align="center"> 👀 Visitors 👀</h1>
+<img src="./assets/separator.gif" width="100%"/>
+<img src="./assets/flame.gif" width="16px" align="left"/>
+<img src="./assets/flame.gif" width="16px" align="right"/>
+<h1 align="center">👀 Visitors 👀<img src="./assets/separator.gif" width="100%"/></h1>
+
 Counting of visitors started from January 1, 2023.
 <br>
 <br>
