@@ -36,8 +36,8 @@
 <div align="center">
 <img src="./assets/flame.gif" width="2%" align="left"/>
 <img src="./assets/flame.gif" width="2%" align="right"/>
-</div>
 <h1 align="center">💻 Languages, Frameworks & Tools 💻</h1>
+</div>
 
 <div align="center">
   <img title="Godot" height="30" src="./assets/icons/godot.svg">
