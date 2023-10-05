@@ -31,52 +31,52 @@
 <h2 align="center">💻 Languages, Frameworks & Tools 💻</h2>
 
 <p align="center">
-  <img title="Godot" height="30" src="./assets/godot.svg">
-  <img title="Unreal Engine" height="30" src="./assets/unreal-engine.svg">
-  <img title="Blender" height="30" src="./assets/blender.svg">
-  <img title="C#" height="30" src="./assets/cSharp.svg">
-  <img title="C/C++" height="30" src="./assets/cpp.svg">
-  <img title="Zig" height="30" src="./assets/zig.svg">
-  <img title="MSSQL" height="30" src="./assets/mssql.svg">
-  <img title="Angular" height="30" src="./assets/angular.svg">
-  <img title="Blazor" height="30" src="./assets/blazor.svg">
-  <img title="ASP.Net Core" height="30" src="./assets/dotnet.svg">
-  <img title="MongoDB" height="30" src="./assets/mongodb.svg">
-  <img title="ExpressJS" height="30" src="./assets/express.svg">
-  <img title="ReactJS" height="30" src="./assets/reactjs.svg">
-  <img title="Node" height="30" src="./assets/nodejs.svg">
-  <img title="Zustand" height="30" src="./assets/zustand.png">
-  <img title="Redux" height="30" src="./assets/redux.svg">
-  <img title="NextJS" height="30" src="./assets/nextjs.svg">
-  <img title="HTML" height="30" src="./assets/html5.svg">
-  <img title="CSS" height="30" src="./assets/css.svg">
-  <img title="SASS" height="30" src="./assets/sass.svg">
-  <img title="Tailwind CSS" height="30" src="./assets/tailwind-css.svg">
-  <img title="Shadcn/UI" height="30" src="./assets/shadcn.svg">
-  <img title="Material UI" height="30" src="./assets/mui.svg">
-  <img title="Bootstrap" height="30" src="./assets/bootstrap.svg">
-  <img title="Chakra UI" height="30" src="./assets/chakra-ui.svg">
-  <img title="Ant Design" height="30" src="./assets/ant-design.svg">
-  <img title="JavaScript" height="30" src="./assets/javascript.svg">
-  <img title="TypeScript" height="30" src="./assets/typescript.svg">
-  <img title="Three.js" height="30" src="./assets/three.js.svg">
-  <img title="Socket.io" height="30" src="./assets/socket.io.svg">
-  <img title="Sanity" height="30" src="./assets/sanity.svg">
-  <img title="Firebase" height="30" src="./assets/firebase.svg">
-  <img title="Supabase" height="30" src="./assets/supabase.svg">
-  <img title="Prisma" height="30" src="./assets/prisma.svg">
-  <img title="Clerk" height="30" src="./assets/clerk.svg">
-  <img title="Vite" height="30" src="./assets/vite.svg">
-  <img title="Python" height="30" src="./assets/python.svg">
-  <img title="Rust" height="30" src="./assets/rust.svg">
-  <img title="Tauri" height="30" src="./assets/tauri.svg">
-  <img title="Git" height="30" src="./assets/git.svg">
-  <img title="Visual Studio" height="30" src="./assets/vs.svg">
-  <img title="VS Code" height="30" src="./assets/vs-code.svg">
-  <img title="Azure" height="30" src="./assets/azure.svg">
-  <img title="SharePoint" height="30" src="./assets/sp.svg">
-  <img title="Power Virtual Agent" height="30" src="./assets/pva.svg">
-  <img title="Power Automate" height="30" src="./assets/pa.svg">
+  <img title="Godot" height="30" src="./assets/icons/godot.svg">
+  <img title="Unreal Engine" height="30" src="./assets/icons/unreal-engine.svg">
+  <img title="Blender" height="30" src="./assets/icons/blender.svg">
+  <img title="C#" height="30" src="./assets/icons/cSharp.svg">
+  <img title="C/C++" height="30" src="./assets/icons/cpp.svg">
+  <img title="Zig" height="30" src="./assets/icons/zig.svg">
+  <img title="MSSQL" height="30" src="./assets/icons/mssql.svg">
+  <img title="Angular" height="30" src="./assets/icons/angular.svg">
+  <img title="Blazor" height="30" src="./assets/icons/blazor.svg">
+  <img title="ASP.Net Core" height="30" src="./assets/icons/dotnet.svg">
+  <img title="MongoDB" height="30" src="./assets/icons/mongodb.svg">
+  <img title="ExpressJS" height="30" src="./assets/icons/express.svg">
+  <img title="ReactJS" height="30" src="./assets/icons/reactjs.svg">
+  <img title="Node" height="30" src="./assets/icons/nodejs.svg">
+  <img title="Zustand" height="30" src="./assets/icons/zustand.png">
+  <img title="Redux" height="30" src="./assets/icons/redux.svg">
+  <img title="NextJS" height="30" src="./assets/icons/nextjs.svg">
+  <img title="HTML" height="30" src="./assets/icons/html5.svg">
+  <img title="CSS" height="30" src="./assets/icons/css.svg">
+  <img title="SASS" height="30" src="./assets/icons/sass.svg">
+  <img title="Tailwind CSS" height="30" src="./assets/icons/tailwind-css.svg">
+  <img title="Shadcn/UI" height="30" src="./assets/icons/shadcn.svg">
+  <img title="Material UI" height="30" src="./assets/icons/mui.svg">
+  <img title="Bootstrap" height="30" src="./assets/icons/bootstrap.svg">
+  <img title="Chakra UI" height="30" src="./assets/icons/chakra-ui.svg">
+  <img title="Ant Design" height="30" src="./assets/icons/ant-design.svg">
+  <img title="JavaScript" height="30" src="./assets/icons/javascript.svg">
+  <img title="TypeScript" height="30" src="./assets/icons/typescript.svg">
+  <img title="Three.js" height="30" src="./assets/icons/three.js.svg">
+  <img title="Socket.io" height="30" src="./assets/icons/socket.io.svg">
+  <img title="Sanity" height="30" src="./assets/icons/sanity.svg">
+  <img title="Firebase" height="30" src="./assets/icons/firebase.svg">
+  <img title="Supabase" height="30" src="./assets/icons/supabase.svg">
+  <img title="Prisma" height="30" src="./assets/icons/prisma.svg">
+  <img title="Clerk" height="30" src="./assets/icons/clerk.svg">
+  <img title="Vite" height="30" src="./assets/icons/vite.svg">
+  <img title="Python" height="30" src="./assets/icons/python.svg">
+  <img title="Rust" height="30" src="./assets/icons/rust.svg">
+  <img title="Tauri" height="30" src="./assets/icons/tauri.svg">
+  <img title="Git" height="30" src="./assets/icons/git.svg">
+  <img title="Visual Studio" height="30" src="./assets/icons/vs.svg">
+  <img title="VS Code" height="30" src="./assets/icons/vs-code.svg">
+  <img title="Azure" height="30" src="./assets/icons/azure.svg">
+  <img title="SharePoint" height="30" src="./assets/icons/sp.svg">
+  <img title="Power Virtual Agent" height="30" src="./assets/icons/pva.svg">
+  <img title="Power Automate" height="30" src="./assets/icons/pa.svg">
 </p>
 
 <h1 align="center"> 🏆 Trophies 🏆</h1>
