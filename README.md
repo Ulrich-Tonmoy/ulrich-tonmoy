@@ -42,6 +42,7 @@
 
 <div align="center">
   <img title="Godot" height="30" src="./assets/icons/godot.svg">
+  <img title="Unity" height="30" src="./assets/icons/unity.svg">
   <img title="Unreal Engine" height="30" src="./assets/icons/unreal-engine.svg">
   <img title="Blender" height="30" src="./assets/icons/blender.svg">
   <img title="C#" height="30" src="./assets/icons/cSharp.svg">
@@ -63,8 +64,9 @@
   <img title="SASS" height="30" src="./assets/icons/sass.svg">
   <img title="Tailwind CSS" height="30" src="./assets/icons/tailwind-css.svg">
   <img title="Shadcn/UI" height="30" src="./assets/icons/shadcn.svg">
-  <img title="Material UI" height="30" src="./assets/icons/mui.svg">
   <img title="Bootstrap" height="30" src="./assets/icons/bootstrap.svg">
+  <img title="Kendo UI" height="30" src="./assets/icons/kendo.svg">
+  <img title="Material UI" height="30" src="./assets/icons/mui.svg">
   <img title="Chakra UI" height="30" src="./assets/icons/chakra-ui.svg">
   <img title="Ant Design" height="30" src="./assets/icons/ant-design.svg">
   <img title="JavaScript" height="30" src="./assets/icons/javascript.svg">
