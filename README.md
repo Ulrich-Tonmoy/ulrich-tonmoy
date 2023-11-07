@@ -42,12 +42,14 @@
 
 <div align="center">
   <img title="Godot" height="30" src="./assets/icons/godot.svg">
-  <img title="Unity" height="30" src="./assets/icons/unity.svg">
   <img title="Unreal Engine" height="30" src="./assets/icons/unreal-engine.svg">
   <img title="Blender" height="30" src="./assets/icons/blender.svg">
+  <img title="Python" height="30" src="./assets/icons/python.svg">
   <img title="C#" height="30" src="./assets/icons/cSharp.svg">
   <img title="C/C++" height="30" src="./assets/icons/cpp.svg">
   <img title="Zig" height="30" src="./assets/icons/zig.svg">
+  <img title="Rust" height="30" src="./assets/icons/rust.svg">
+  <img title="Tauri" height="30" src="./assets/icons/tauri.svg">
   <img title="MSSQL" height="30" src="./assets/icons/mssql.svg">
   <img title="Angular" height="30" src="./assets/icons/angular.svg">
   <img title="Blazor" height="30" src="./assets/icons/blazor.svg">
@@ -79,9 +81,6 @@
   <img title="Prisma" height="30" src="./assets/icons/prisma.svg">
   <img title="Clerk" height="30" src="./assets/icons/clerk.svg">
   <img title="Vite" height="30" src="./assets/icons/vite.svg">
-  <img title="Python" height="30" src="./assets/icons/python.svg">
-  <img title="Rust" height="30" src="./assets/icons/rust.svg">
-  <img title="Tauri" height="30" src="./assets/icons/tauri.svg">
   <img title="Git" height="30" src="./assets/icons/git.svg">
   <img title="Visual Studio" height="30" src="./assets/icons/vs.svg">
   <img title="VS Code" height="30" src="./assets/icons/vs-code.svg">
