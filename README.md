@@ -9,18 +9,10 @@
 <img src="./assets/separator.gif" width="100%"/>
 </div>
 
-<!--
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
--->
-
-- 💻 I love learn new technologies 💻,
+- 💻 I love learn new technologies,
   A hobbyist game 🎮, AI 🤖 and XR 🥽 developer.
-- 🔭 I’m currently working on A Game Engine
-- 🌱 I’m currently learning Angular and .NET
+- 🌱 I’m currently learning [Zig](https://ziglang.org/) and [Godot](https://godotengine.org/)
+- 🔭 I’m currently working on A [Code Editor](https://github.com/Ulrich-Tonmoy/codium) and A [Game Engine](https://github.com/Ulrich-Tonmoy/phoenix).
 - 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [portfolio](https://ulrich-tonmoy.github.io/) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
