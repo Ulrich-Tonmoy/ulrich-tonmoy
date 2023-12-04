@@ -71,6 +71,7 @@
   <img title="Firebase" height="30" src="./assets/icons/firebase.svg">
   <img title="Supabase" height="30" src="./assets/icons/supabase.svg">
   <img title="Prisma" height="30" src="./assets/icons/prisma.svg">
+  <img title="Drizzle ORM" height="30" src="./assets/icons/drizzle.png">
   <img title="Clerk" height="30" src="./assets/icons/clerk.svg">
   <img title="Vite" height="30" src="./assets/icons/vite.svg">
   <img title="Git" height="30" src="./assets/icons/git.svg">
