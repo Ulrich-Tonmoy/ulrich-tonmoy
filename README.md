@@ -13,7 +13,7 @@
   A hobbyist game 🎮, AI 🤖 and XR 🥽 developer.
 - 🌱 I’m currently learning [Zig](https://ziglang.org/) and [Godot](https://godotengine.org/)
 - 🔭 I’m currently working on A [Code Editor](https://github.com/Ulrich-Tonmoy/codium) and A [Game Engine](https://github.com/Ulrich-Tonmoy/phoenix).
-- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [portfolio](https://ulrich-tonmoy.github.io/) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy)
+- 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
