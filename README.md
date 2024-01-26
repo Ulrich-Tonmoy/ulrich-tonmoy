@@ -52,6 +52,7 @@
   <img title="Node" height="30" src="./assets/icons/nodejs.svg">
   <img title="Zustand" height="30" src="./assets/icons/zustand.png">
   <img title="Redux" height="30" src="./assets/icons/redux.svg">
+  <img title="Jotai" height="30" src="./assets/icons/jotai.png">
   <img title="NextJS" height="30" src="./assets/icons/nextjs.svg">
   <img title="HTML" height="30" src="./assets/icons/html5.svg">
   <img title="CSS" height="30" src="./assets/icons/css.svg">
