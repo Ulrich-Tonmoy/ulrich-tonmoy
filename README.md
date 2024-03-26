@@ -78,6 +78,7 @@
   <img title="Git" height="30" src="./assets/icons/git.svg">
   <img title="Visual Studio" height="30" src="./assets/icons/vs.svg">
   <img title="VS Code" height="30" src="./assets/icons/vs-code.svg">
+  <img title="Neovim" height="30" src="./assets/icons/neovim.svg">
   <img title="Azure" height="30" src="./assets/icons/azure.svg">
   <img title="SharePoint" height="30" src="./assets/icons/sp.svg">
   <img title="Power Virtual Agent" height="30" src="./assets/icons/pva.svg">
