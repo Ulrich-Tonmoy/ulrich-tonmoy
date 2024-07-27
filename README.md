@@ -69,6 +69,7 @@
   <img title="Three.js" height="30" src="./assets/icons/three.js.svg">
   <img title="Socket.io" height="30" src="./assets/icons/socket.io.svg">
   <img title="Sanity" height="30" src="./assets/icons/sanity.svg">
+  <img title="Storyblok" height="30" src="./assets/icons/storyblok.png">
   <img title="Firebase" height="30" src="./assets/icons/firebase.svg">
   <img title="Supabase" height="30" src="./assets/icons/supabase.svg">
   <img title="Prisma" height="30" src="./assets/icons/prisma.svg">
@@ -78,6 +79,7 @@
   <img title="Git" height="30" src="./assets/icons/git.svg">
   <img title="Visual Studio" height="30" src="./assets/icons/vs.svg">
   <img title="VS Code" height="30" src="./assets/icons/vs-code.svg">
+  <img title="Azure Data Studio" height="30" src="./assets/icons/ads.png">
   <img title="Neovim" height="30" src="./assets/icons/neovim.svg">
   <img title="Azure" height="30" src="./assets/icons/azure.svg">
   <img title="SharePoint" height="30" src="./assets/icons/sp.svg">
