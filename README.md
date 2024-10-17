@@ -111,11 +111,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ulrich-Tonmoy&theme=react&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=DDB500)](https://git.io/streak-stats)
 
+[![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulrich-tonmoy&theme=2077)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulrich-tonmoy&theme=2077)
-
-[![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulrich-tonmoy&theme=2077)
 
