@@ -113,9 +113,12 @@
 
 [![Ulrich-Tonmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulrich-Tonmoy&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulrich-tonmoy&theme=2077)
+<div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ulrich-tonmoy&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulrich-tonmoy&theme=2077)
+
+</div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulrich-tonmoy&theme=2077)
 
