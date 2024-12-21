@@ -12,7 +12,7 @@
 - 💻 I love learn new technologies,
   A hobbyist game 🎮, AI 🤖 and XR 🥽 developer.
 - 🌱 I’m currently learning [Zig](https://ziglang.org/).
-- 🔭 I’m currently working on a markdown editor [Markpad](https://github.com/Ulrich-Tonmoy/markpad).
+- 🔭 I’m currently working on a Code Editor [Codium](https://github.com/Ulrich-Tonmoy/codium).
 - 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy).
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -43,6 +43,7 @@
   <img title="Zig" height="30" src="./assets/icons/zig.svg">
   <img title="Rust" height="30" src="./assets/icons/rust.svg">
   <img title="Tauri" height="30" src="./assets/icons/tauri.svg">
+  <img title="React Native" height="30" src="./assets/icons/react-native.svg">
   <img title="MSSQL" height="30" src="./assets/icons/mssql.svg">
   <img title="Angular" height="30" src="./assets/icons/angular.svg">
   <img title="Blazor" height="30" src="./assets/icons/blazor.svg">
@@ -73,6 +74,7 @@
   <img title="Storyblok" height="30" src="./assets/icons/storyblok.png">
   <img title="Firebase" height="30" src="./assets/icons/firebase.svg">
   <img title="Supabase" height="30" src="./assets/icons/supabase.svg">
+  <img title="Appwrite" height="30" src="./assets/icons/appwrite.png">
   <img title="Prisma" height="30" src="./assets/icons/prisma.svg">
   <img title="Drizzle ORM" height="30" src="./assets/icons/drizzle.png">
   <img title="Clerk" height="30" src="./assets/icons/clerk.svg">
