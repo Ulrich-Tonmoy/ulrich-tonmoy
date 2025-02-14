@@ -82,6 +82,9 @@
   <img title="Drizzle ORM" height="30" src="./assets/icons/drizzle.png">
   <img title="Clerk" height="30" src="./assets/icons/clerk.svg">
   <img title="Vite" height="30" src="./assets/icons/vite.svg">
+  <img title="Playwright" height="30" src="./assets/icons/playwright.svg">
+  <img title="Jasmine" height="30" src="./assets/icons/jasmine.svg">
+  <img title="Karma" height="30" src="./assets/icons/karma.svg">
   <img title="Git" height="30" src="./assets/icons/git.svg">
   <img title="Visual Studio" height="30" src="./assets/icons/vs.svg">
   <img title="VS Code" height="30" src="./assets/icons/vs-code.svg">
