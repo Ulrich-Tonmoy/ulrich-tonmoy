@@ -47,6 +47,7 @@
   <img title="Rust" height="30" src="./assets/icons/rust.svg">
   <img title="Tauri" height="30" src="./assets/icons/tauri.svg">
   <img title="React Native" height="30" src="./assets/icons/react-native.svg">
+  <img title="Expo" height="30" src="./assets/icons/expo.svg">
   <img title="MSSQL" height="30" src="./assets/icons/mssql.svg">
   <img title="Angular" height="30" src="./assets/icons/angular.svg">
   <img title="Blazor" height="30" src="./assets/icons/blazor.svg">
@@ -75,6 +76,7 @@
   <img title="Socket.io" height="30" src="./assets/icons/socket.io.svg">
   <img title="Sanity" height="30" src="./assets/icons/sanity.svg">
   <img title="Storyblok" height="30" src="./assets/icons/storyblok.png">
+  <img title="Medusa.js" height="30" src="./assets/icons/medusa.js.svg">
   <img title="Firebase" height="30" src="./assets/icons/firebase.svg">
   <img title="Supabase" height="30" src="./assets/icons/supabase.svg">
   <img title="Appwrite" height="30" src="./assets/icons/appwrite.png">
@@ -94,6 +96,7 @@
   <img title="SharePoint" height="30" src="./assets/icons/sp.svg">
   <img title="Power Virtual Agent" height="30" src="./assets/icons/pva.svg">
   <img title="Power Automate" height="30" src="./assets/icons/pa.svg">
+  <img title="Salesforce" height="30" src="./assets/icons/salesforce.svg">
 </div>
 
 <div align="center">
