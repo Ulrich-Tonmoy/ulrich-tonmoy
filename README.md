@@ -36,67 +36,67 @@
 </div>
 
 <div align="center">
-  <img title="Godot" height="30" src="./assets/icons/godot.svg">
-  <img title="Unity" height="30" src="./assets/icons/unity.svg">
-  <img title="Unreal Engine" height="30" src="./assets/icons/unreal-engine.svg">
-  <img title="Blender" height="30" src="./assets/icons/blender.svg">
-  <img title="Python" height="30" src="./assets/icons/python.svg">
-  <img title="C#" height="30" src="./assets/icons/cSharp.svg">
-  <img title="C/C++" height="30" src="./assets/icons/cpp.svg">
-  <img title="Zig" height="30" src="./assets/icons/zig.svg">
-  <img title="Rust" height="30" src="./assets/icons/rust.svg">
-  <img title="Tauri" height="30" src="./assets/icons/tauri.svg">
-  <img title="React Native" height="30" src="./assets/icons/react-native.svg">
-  <img title="Expo" height="30" src="./assets/icons/expo.svg">
-  <img title="MSSQL" height="30" src="./assets/icons/mssql.svg">
-  <img title="Angular" height="30" src="./assets/icons/angular.svg">
-  <img title="Blazor" height="30" src="./assets/icons/blazor.svg">
-  <img title="ASP.Net Core" height="30" src="./assets/icons/dotnet.svg">
-  <img title="MongoDB" height="30" src="./assets/icons/mongodb.svg">
-  <img title="ExpressJS" height="30" src="./assets/icons/express.svg">
-  <img title="ReactJS" height="30" src="./assets/icons/reactjs.svg">
-  <img title="Node" height="30" src="./assets/icons/nodejs.svg">
-  <img title="Zustand" height="30" src="./assets/icons/zustand.png">
-  <img title="Redux" height="30" src="./assets/icons/redux.svg">
-  <img title="Jotai" height="30" src="./assets/icons/jotai.png">
-  <img title="NextJS" height="30" src="./assets/icons/nextjs.svg">
-  <img title="HTML" height="30" src="./assets/icons/html5.svg">
-  <img title="CSS" height="30" src="./assets/icons/css.svg">
-  <img title="SASS" height="30" src="./assets/icons/sass.svg">
-  <img title="Tailwind CSS" height="30" src="./assets/icons/tailwind-css.svg">
-  <img title="Shadcn/UI" height="30" src="./assets/icons/shadcn.svg">
-  <img title="Bootstrap" height="30" src="./assets/icons/bootstrap.svg">
-  <img title="Kendo UI" height="30" src="./assets/icons/kendo.svg">
-  <img title="Material UI" height="30" src="./assets/icons/mui.svg">
-  <img title="Chakra UI" height="30" src="./assets/icons/chakra-ui.svg">
-  <img title="Ant Design" height="30" src="./assets/icons/ant-design.svg">
-  <img title="JavaScript" height="30" src="./assets/icons/javascript.svg">
-  <img title="TypeScript" height="30" src="./assets/icons/typescript.svg">
-  <img title="Three.js" height="30" src="./assets/icons/three.js.svg">
-  <img title="Socket.io" height="30" src="./assets/icons/socket.io.svg">
-  <img title="Sanity" height="30" src="./assets/icons/sanity.svg">
-  <img title="Storyblok" height="30" src="./assets/icons/storyblok.png">
-  <img title="Medusa.js" height="30" src="./assets/icons/medusa.js.svg">
-  <img title="Firebase" height="30" src="./assets/icons/firebase.svg">
-  <img title="Supabase" height="30" src="./assets/icons/supabase.svg">
-  <img title="Appwrite" height="30" src="./assets/icons/appwrite.png">
-  <img title="Prisma" height="30" src="./assets/icons/prisma.svg">
-  <img title="Drizzle ORM" height="30" src="./assets/icons/drizzle.png">
-  <img title="Clerk" height="30" src="./assets/icons/clerk.svg">
-  <img title="Vite" height="30" src="./assets/icons/vite.svg">
-  <img title="Playwright" height="30" src="./assets/icons/playwright.svg">
-  <img title="Jasmine" height="30" src="./assets/icons/jasmine.svg">
-  <img title="Karma" height="30" src="./assets/icons/karma.svg">
-  <img title="Git" height="30" src="./assets/icons/git.svg">
-  <img title="Visual Studio" height="30" src="./assets/icons/vs.svg">
-  <img title="VS Code" height="30" src="./assets/icons/vs-code.svg">
-  <img title="Azure Data Studio" height="30" src="./assets/icons/ads.png">
-  <img title="Neovim" height="30" src="./assets/icons/neovim.svg">
-  <img title="Azure" height="30" src="./assets/icons/azure.svg">
-  <img title="SharePoint" height="30" src="./assets/icons/sp.svg">
-  <img title="Power Virtual Agent" height="30" src="./assets/icons/pva.svg">
-  <img title="Power Automate" height="30" src="./assets/icons/pa.svg">
-  <img title="Salesforce" height="30" src="./assets/icons/salesforce.svg">
+  <img title="Godot" width="30px" src="./assets/icons/godot.svg">
+  <img title="Unity" width="30px" src="./assets/icons/unity.svg">
+  <img title="Unreal Engine" width="30px" src="./assets/icons/unreal-engine.svg">
+  <img title="Blender" width="30px" src="./assets/icons/blender.svg">
+  <img title="Python" width="30px" src="./assets/icons/python.svg">
+  <img title="C#" width="30px" src="./assets/icons/cSharp.svg">
+  <img title="C/C++" width="30px" src="./assets/icons/cpp.svg">
+  <img title="Zig" width="30px" src="./assets/icons/zig.svg">
+  <img title="Rust" width="30px" src="./assets/icons/rust.svg">
+  <img title="Tauri" width="30px" src="./assets/icons/tauri.svg">
+  <img title="React Native" width="30px" src="./assets/icons/react-native.svg">
+  <img title="Expo" width="30px" src="./assets/icons/expo.svg">
+  <img title="MSSQL" width="30px" src="./assets/icons/mssql.svg">
+  <img title="Angular" width="30px" src="./assets/icons/angular.svg">
+  <img title="Blazor" width="30px" src="./assets/icons/blazor.svg">
+  <img title="ASP.Net Core" width="30px" src="./assets/icons/dotnet.svg">
+  <img title="MongoDB" width="30px" src="./assets/icons/mongodb.svg">
+  <img title="ExpressJS" width="30px" src="./assets/icons/express.svg">
+  <img title="ReactJS" width="30px" src="./assets/icons/reactjs.svg">
+  <img title="Node" width="30px" src="./assets/icons/nodejs.svg">
+  <img title="Zustand" width="30px" src="./assets/icons/zustand.png">
+  <img title="Redux" width="30px" src="./assets/icons/redux.svg">
+  <img title="Jotai" width="30px" src="./assets/icons/jotai.png">
+  <img title="NextJS" width="30px" src="./assets/icons/nextjs.svg">
+  <img title="HTML" width="30px" src="./assets/icons/html5.svg">
+  <img title="CSS" width="30px" src="./assets/icons/css.svg">
+  <img title="SASS" width="30px" src="./assets/icons/sass.svg">
+  <img title="Tailwind CSS" width="30px" src="./assets/icons/tailwind-css.svg">
+  <img title="Shadcn/UI" width="30px" src="./assets/icons/shadcn.svg">
+  <img title="Bootstrap" width="30px" src="./assets/icons/bootstrap.svg">
+  <img title="Kendo UI" width="30px" src="./assets/icons/kendo.svg">
+  <img title="Material UI" width="30px" src="./assets/icons/mui.svg">
+  <img title="Chakra UI" width="30px" src="./assets/icons/chakra-ui.svg">
+  <img title="Ant Design" width="30px" src="./assets/icons/ant-design.svg">
+  <img title="JavaScript" width="30px" src="./assets/icons/javascript.svg">
+  <img title="TypeScript" width="30px" src="./assets/icons/typescript.svg">
+  <img title="Three.js" width="30px" src="./assets/icons/three.js.svg">
+  <img title="Socket.io" width="30px" src="./assets/icons/socket.io.svg">
+  <img title="Sanity" width="30px" src="./assets/icons/sanity.svg">
+  <img title="Storyblok" width="30px" src="./assets/icons/storyblok.png">
+  <img title="Medusa.js" width="30px" src="./assets/icons/medusa.js.svg">
+  <img title="Firebase" width="30px" src="./assets/icons/firebase.svg">
+  <img title="Supabase" width="30px" src="./assets/icons/supabase.svg">
+  <img title="Appwrite" width="30px" src="./assets/icons/appwrite.png">
+  <img title="Prisma" width="30px" src="./assets/icons/prisma.svg">
+  <img title="Drizzle ORM" width="30px" src="./assets/icons/drizzle.png">
+  <img title="Clerk" width="30px" src="./assets/icons/clerk.svg">
+  <img title="Vite" width="30px" src="./assets/icons/vite.svg">
+  <img title="Playwright" width="30px" src="./assets/icons/playwright.svg">
+  <img title="Jasmine" width="30px" src="./assets/icons/jasmine.svg">
+  <img title="Karma" width="30px" src="./assets/icons/karma.svg">
+  <img title="Git" width="30px" src="./assets/icons/git.svg">
+  <img title="Visual Studio" width="30px" src="./assets/icons/vs.svg">
+  <img title="VS Code" width="30px" src="./assets/icons/vs-code.svg">
+  <img title="Azure Data Studio" width="30px" src="./assets/icons/ads.png">
+  <img title="Neovim" width="30px" src="./assets/icons/neovim.svg">
+  <img title="Azure" width="30px" src="./assets/icons/azure.svg">
+  <img title="SharePoint" width="30px" src="./assets/icons/sp.svg">
+  <img title="Power Virtual Agent" width="30px" src="./assets/icons/pva.svg">
+  <img title="Power Automate" width="30px" src="./assets/icons/pa.svg">
+  <img title="Salesforce" width="30px" src="./assets/icons/salesforce.svg">
 </div>
 
 <div align="center">
