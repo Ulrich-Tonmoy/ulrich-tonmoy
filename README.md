@@ -11,11 +11,9 @@
 
 - 💻 Passionate about web development.
 - 🎮 Enthusiastic about game development.
-- 🤖 Interested in AI.
-- 🥽 Exploring XR technologies.
-- 🌱 I’m currently learning [Zig](https://ziglang.org/).
-- 🔭 I’m currently working on [Codium](https://github.com/Ulrich-Tonmoy/codium) & [Markpad](https://github.com/Ulrich-Tonmoy/markpad).
-
+- 🤖 Interested in AI & 🥽 XR technologies.
+  <!-- - 🌱 I’m currently learning [Zig](https://ziglang.org/). -->
+  <!-- - 🔭 I’m currently working on [Codium](https://github.com/Ulrich-Tonmoy/codium) & [Markpad](https://github.com/Ulrich-Tonmoy/markpad). -->
 - 💬 Ask me about anything [here](https://github.com/Ulrich-Tonmoy/ulrich-tonmoy/issues) or [discord](https://discord.gg/3PXDND5e) or [youtube](https://www.youtube.com/@ulrich-tonmoy).
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
