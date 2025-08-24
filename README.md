@@ -89,6 +89,7 @@
   <img title="Visual Studio" width="30px" src="./assets/icons/vs.svg">
   <img title="VS Code" width="30px" src="./assets/icons/vs-code.svg">
   <img title="Azure Data Studio" width="30px" src="./assets/icons/ads.png">
+  <img title="SQL Server Management Studio" width="30px" src="./assets/icons/ssms.png">
   <img title="Neovim" width="30px" src="./assets/icons/neovim.svg">
   <img title="Azure" width="30px" src="./assets/icons/azure.svg">
   <img title="SharePoint" width="30px" src="./assets/icons/sp.svg">
