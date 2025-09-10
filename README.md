@@ -70,6 +70,7 @@
   <img title="Ant Design" width="30px" src="./assets/icons/ant-design.svg">
   <img title="JavaScript" width="30px" src="./assets/icons/javascript.svg">
   <img title="TypeScript" width="30px" src="./assets/icons/typescript.svg">
+  <img title="i18next" width="30px" src="./assets/icons/i18next.png">
   <img title="Three.js" width="30px" src="./assets/icons/three.js.svg">
   <img title="Socket.io" width="30px" src="./assets/icons/socket.io.svg">
   <img title="Sanity" width="30px" src="./assets/icons/sanity.svg">
