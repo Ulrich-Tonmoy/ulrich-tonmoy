@@ -45,7 +45,7 @@
   <img title="Rust" width="30px" src="./assets/icons/rust.svg">
   <img title="Tauri" width="30px" src="./assets/icons/tauri.svg">
   <img title="React Native" width="30px" src="./assets/icons/react-native.svg">
-  <img title="Expo" width="30px" src="./assets/icons/expo.svg">
+  <img title="Expo" width="80px" src="./assets/icons/expo.png">
   <img title="MSSQL" width="30px" src="./assets/icons/mssql.svg">
   <img title="Angular" width="30px" src="./assets/icons/angular.svg">
   <img title="Blazor" width="30px" src="./assets/icons/blazor.svg">
@@ -53,8 +53,8 @@
   <img title="MongoDB" width="30px" src="./assets/icons/mongodb.svg">
   <img title="ExpressJS" width="30px" src="./assets/icons/express.svg">
   <img title="ReactJS" width="30px" src="./assets/icons/reactjs.svg">
-  <img title="Node" width="30px" src="./assets/icons/nodejs.svg">
-  <img title="Zustand" width="30px" src="./assets/icons/zustand.png">
+  <img title="Node" width="50px" src="./assets/icons/nodejs.svg">
+  <img title="Zustand" width="50px" src="./assets/icons/zustand.png">
   <img title="Redux" width="30px" src="./assets/icons/redux.svg">
   <img title="Jotai" width="30px" src="./assets/icons/jotai.png">
   <img title="NextJS" width="30px" src="./assets/icons/nextjs.svg">
@@ -70,7 +70,7 @@
   <img title="Ant Design" width="30px" src="./assets/icons/ant-design.svg">
   <img title="JavaScript" width="30px" src="./assets/icons/javascript.svg">
   <img title="TypeScript" width="30px" src="./assets/icons/typescript.svg">
-  <img title="i18next" width="30px" src="./assets/icons/i18next.png">
+  <img title="i18next" width="80px" src="./assets/icons/i18next.png">
   <img title="Three.js" width="30px" src="./assets/icons/three.js.svg">
   <img title="Socket.io" width="30px" src="./assets/icons/socket.io.svg">
   <img title="Sanity" width="30px" src="./assets/icons/sanity.svg">
@@ -79,14 +79,15 @@
   <img title="Firebase" width="30px" src="./assets/icons/firebase.svg">
   <img title="Supabase" width="30px" src="./assets/icons/supabase.svg">
   <img title="Appwrite" width="30px" src="./assets/icons/appwrite.png">
-  <img title="Prisma" width="30px" src="./assets/icons/prisma.svg">
+  <img title="Prisma" width="90px" src="./assets/icons/prisma.svg">
   <img title="Drizzle ORM" width="30px" src="./assets/icons/drizzle.png">
-  <img title="Clerk" width="30px" src="./assets/icons/clerk.svg">
+  <img title="Clerk" width="60px" src="./assets/icons/clerk.svg">
   <img title="Vite" width="30px" src="./assets/icons/vite.svg">
   <img title="Playwright" width="30px" src="./assets/icons/playwright.svg">
   <img title="Jasmine" width="30px" src="./assets/icons/jasmine.svg">
   <img title="Karma" width="30px" src="./assets/icons/karma.svg">
   <img title="Git" width="30px" src="./assets/icons/git.svg">
+  <img title="Docker" width="100px" src="./assets/icons/docker.png">
   <img title="Visual Studio" width="30px" src="./assets/icons/vs.svg">
   <img title="VS Code" width="30px" src="./assets/icons/vs-code.svg">
   <img title="Azure Data Studio" width="30px" src="./assets/icons/ads.png">
