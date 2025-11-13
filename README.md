@@ -71,17 +71,24 @@
   <img title="JavaScript" width="30px" src="./assets/icons/javascript.svg">
   <img title="TypeScript" width="30px" src="./assets/icons/typescript.svg">
   <img title="i18next" width="80px" src="./assets/icons/i18next.png">
+  <img title="Arcjet" width="80px" src="./assets/icons/arcjet.svg">
+  <img title="Sentry.io" width="80px" src="./assets/icons/sentry.io.svg">
+  <img title="Google Analytics" width="80px" src="./assets/icons/google-analytics.svg">
+  <img title="Google Tag Manager" width="80px" src="./assets/icons/google-tag-manager.png">
   <img title="Three.js" width="30px" src="./assets/icons/three.js.svg">
   <img title="Socket.io" width="30px" src="./assets/icons/socket.io.svg">
   <img title="Sanity" width="30px" src="./assets/icons/sanity.svg">
   <img title="Storyblok" width="30px" src="./assets/icons/storyblok.png">
   <img title="Medusa.js" width="30px" src="./assets/icons/medusa.js.svg">
+  <img title="Puter.js" width="30px" src="./assets/icons/puter.js.png">
   <img title="Firebase" width="30px" src="./assets/icons/firebase.svg">
   <img title="Supabase" width="30px" src="./assets/icons/supabase.svg">
   <img title="Appwrite" width="30px" src="./assets/icons/appwrite.png">
   <img title="Prisma" width="90px" src="./assets/icons/prisma.svg">
   <img title="Drizzle ORM" width="30px" src="./assets/icons/drizzle.png">
+  <img title="Better Auth" width="80px" src="./assets/icons/better-auth.svg">
   <img title="Clerk" width="60px" src="./assets/icons/clerk.svg">
+  <img title="Azure AD B2C" width="30px" src="./assets/icons/azure-ad-b2c.svg">
   <img title="Vite" width="30px" src="./assets/icons/vite.svg">
   <img title="Playwright" width="30px" src="./assets/icons/playwright.svg">
   <img title="Jasmine" width="30px" src="./assets/icons/jasmine.svg">
